@@ -1,0 +1,19 @@
+/* hello
+   this is a multiline comment
+   which should be ignored
+*/
+
+var x = 10
+var y = "hello world"
+
+fun x() {
+    return 23
+}
+
+/* this is another multiline comment
+    // *dbnv 489)_
+*/
+
+// hellooo
+
+123
